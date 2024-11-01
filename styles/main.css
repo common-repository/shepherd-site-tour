@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "EagerIcoMoon";
+  src: url('./fonts/icomoon.eot');
+  src: url('./fonts/icomoon.eot#iefix') format('embedded-opentype'), 
+       url('./fonts/icomoon.woff') format('woff'), 
+       url('./fonts/icomoon.ttf')  format('truetype'), 
+       url('./fonts/icomoon.svg#Icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+#toplevel_page_eager_options_handle .wp-menu-image:before {
+  font-family: 'EagerIcoMoon';
+}
